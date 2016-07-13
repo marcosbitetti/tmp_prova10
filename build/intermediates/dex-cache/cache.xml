@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\xampp\htdocs\prova10\AndroidWebView\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="fb3bb74cf14dff04b9b2e245bdddbff023448419">
+        <dex dex="C:\xampp\htdocs\prova10\AndroidWebView\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5d6f127b74c65761cb44b16d3eaf38b8c7d85919\classes.dex" />
+    </item>
+    <item
+        jar="C:\xampp\htdocs\prova10\AndroidWebView\libs\libGoogleAnalyticsServices.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="e887c6c9b31b39a39b0eaba981448b78902ea813">
+        <dex dex="C:\xampp\htdocs\prova10\AndroidWebView\build\intermediates\transforms\dex\debug\folders\1000\2\libGoogleAnalyticsServices_ffc76048ef996d22a97f75ce264dd7de337604ff\classes.dex" />
+    </item>
+    <item
+        jar="C:\xampp\htdocs\prova10\AndroidWebView\libs\universal-image-loader.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="296dfb44fbf31397c0306e60cb62e06ca40df07f">
+        <dex dex="C:\xampp\htdocs\prova10\AndroidWebView\build\intermediates\transforms\dex\debug\folders\1000\2\universal-image-loader_a357672318996d1bd9bae7eb9b22f865471d6c83\classes.dex" />
+    </item>
+    <item
+        jar="C:\xampp\htdocs\prova10\AndroidWebView\libs\android-support-v4.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="ded9acc6a9792b8f1afc470f0c9cd36d178914cd">
+        <dex dex="C:\xampp\htdocs\prova10\AndroidWebView\build\intermediates\transforms\dex\debug\folders\1000\2\android-support-v4_c5435668c321dabd39a36f6696f189fbf4077932\classes.dex" />
+    </item>
+    <item
+        jar="C:\xampp\htdocs\prova10\AndroidWebView\libs\gallery-lib.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="e99b23840e364405f578e3d75d5ddde501837d59">
+        <dex dex="C:\xampp\htdocs\prova10\AndroidWebView\build\intermediates\transforms\dex\debug\folders\1000\2\gallery-lib_97c1b0c74cd02d1ef2ffcbafbb58d976a62ebb38\classes.dex" />
+    </item>
+    <item
+        jar="C:\xampp\htdocs\prova10\AndroidWebView\libs\gson-2.2.4.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="973e832af433b44c3ed11c426f2f390b29f3f3f8">
+        <dex dex="C:\xampp\htdocs\prova10\AndroidWebView\build\intermediates\transforms\dex\debug\folders\1000\2\gson-2.2.4_b70525c1bbc7e25686b7e80be5c5dde4671a3b12\classes.dex" />
+    </item>
+    <item
+        jar="C:\xampp\htdocs\prova10\AndroidWebView\build\intermediates\exploded-aar\prova10\google-play-services_lib\unspecified\jars\libs\google-play-services.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="8d088a5d110c81a0147c297f409fe7b7fd2acb81">
+        <dex dex="C:\xampp\htdocs\prova10\AndroidWebView\build\intermediates\transforms\dex\debug\folders\1000\8\google-play-services_cef0fe74519efa578a457e49087aa626e87c2101\classes.dex" />
+    </item>
+    <item
+        jar="C:\xampp\htdocs\prova10\AndroidWebView\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="04d5494aa1d6e477b15c07bc8ba6afd1dda0a5a0">
+        <dex dex="C:\xampp\htdocs\prova10\AndroidWebView\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_82115253498ee3dc30b846f2321506815632fff0\classes.dex" />
+    </item>
+
+</items>
