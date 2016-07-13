@@ -1,0 +1,398 @@
+[
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\youtube.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable-xxhdpi\\youtube.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_signin_btn_icon_disabled_focus_light.9.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\exploded-aar\\prova10\\google-play-services_lib\\unspecified\\res\\drawable-xxhdpi-v4\\common_signin_btn_icon_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\wifi.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable-xxhdpi\\wifi.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\protection.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable-xxhdpi\\protection.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ltwiter.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable-xxhdpi\\ltwiter.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\printers.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable-xxhdpi\\printers.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\favorite.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable-xxhdpi\\favorite.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_plusone_medium_off_client.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\exploded-aar\\prova10\\google-play-services_lib\\unspecified\\res\\drawable-xxhdpi-v4\\ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\fax.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable-xxhdpi\\fax.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\video.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable-xxhdpi\\video.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\awards.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable-xxhdpi\\awards.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\images.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable-xxhdpi\\images.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\linkedin.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable-xxhdpi\\linkedin.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\speedtest.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable-xxhdpi\\speedtest.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\travel.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable-xxhdpi\\travel.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\logo_contact.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable-xxhdpi\\logo_contact.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_signin_btn_icon_pressed_dark.9.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\exploded-aar\\prova10\\google-play-services_lib\\unspecified\\res\\drawable-xxhdpi-v4\\common_signin_btn_icon_pressed_dark.9.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_signin_btn_text_normal_dark.9.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\exploded-aar\\prova10\\google-play-services_lib\\unspecified\\res\\drawable-xxhdpi-v4\\common_signin_btn_text_normal_dark.9.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\songs.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable-xxhdpi\\songs.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\flickr.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable-xxhdpi\\flickr.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_signin_btn_icon_disabled_dark.9.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\exploded-aar\\prova10\\google-play-services_lib\\unspecified\\res\\drawable-xxhdpi-v4\\common_signin_btn_icon_disabled_dark.9.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_signin_btn_icon_focus_light.9.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\exploded-aar\\prova10\\google-play-services_lib\\unspecified\\res\\drawable-xxhdpi-v4\\common_signin_btn_icon_focus_light.9.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\analytics.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable-xxhdpi\\analytics.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\moustache.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable-xxhdpi\\moustache.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\mob.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable-xxhdpi\\mob.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\statictic.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable-xxhdpi\\statictic.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\takeabrake.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable-xxhdpi\\takeabrake.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\about_us_land_image.jpg",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable-xxhdpi\\about_us_land_image.jpg"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\labs.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable-xxhdpi\\labs.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\lounch.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable-xxhdpi\\lounch.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\talk.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable-xxhdpi\\talk.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_signin_btn_text_pressed_dark.9.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\exploded-aar\\prova10\\google-play-services_lib\\unspecified\\res\\drawable-xxhdpi-v4\\common_signin_btn_text_pressed_dark.9.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\archive.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable-xxhdpi\\archive.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\cart.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable-xxhdpi\\cart.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\aboutus.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable-xxhdpi\\aboutus.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\onoff.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable-xxhdpi\\onoff.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\share.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable-xxhdpi\\share.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_signin_btn_icon_disabled_focus_dark.9.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\exploded-aar\\prova10\\google-play-services_lib\\unspecified\\res\\drawable-xxhdpi-v4\\common_signin_btn_icon_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\massages.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable-xxhdpi\\massages.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\facebook.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable-xxhdpi\\facebook.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\files.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable-xxhdpi\\files.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\games.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable-xxhdpi\\games.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\listen.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable-xxhdpi\\listen.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\splash_ikonica.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable-xxhdpi\\splash_ikonica.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\favorite2.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable-xxhdpi\\favorite2.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\fire.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable-xxhdpi\\fire.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\payments.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable-xxhdpi\\payments.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\about_us_background_image.jpg",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable-xxhdpi\\about_us_background_image.jpg"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\photo.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable-xxhdpi\\photo.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_signin_btn_text_disabled_light.9.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\exploded-aar\\prova10\\google-play-services_lib\\unspecified\\res\\drawable-xxhdpi-v4\\common_signin_btn_text_disabled_light.9.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_signin_btn_text_disabled_dark.9.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\exploded-aar\\prova10\\google-play-services_lib\\unspecified\\res\\drawable-xxhdpi-v4\\common_signin_btn_text_disabled_dark.9.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\web.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable-xxhdpi\\web.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\contact.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable-xxhdpi\\contact.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\settings.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable-xxhdpi\\settings.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\records.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable-xxhdpi\\records.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_signin_btn_text_normal_light.9.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\exploded-aar\\prova10\\google-play-services_lib\\unspecified\\res\\drawable-xxhdpi-v4\\common_signin_btn_text_normal_light.9.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\music.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable-xxhdpi\\music.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_signin_btn_text_pressed_light.9.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\exploded-aar\\prova10\\google-play-services_lib\\unspecified\\res\\drawable-xxhdpi-v4\\common_signin_btn_text_pressed_light.9.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_signin_btn_icon_pressed_light.9.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\exploded-aar\\prova10\\google-play-services_lib\\unspecified\\res\\drawable-xxhdpi-v4\\common_signin_btn_icon_pressed_light.9.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_signin_btn_icon_disabled_light.9.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\exploded-aar\\prova10\\google-play-services_lib\\unspecified\\res\\drawable-xxhdpi-v4\\common_signin_btn_icon_disabled_light.9.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\email.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable-xxhdpi\\email.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\left_menu.jpg",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable-xxhdpi\\left_menu.jpg"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\send.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable-xxhdpi\\send.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\gifts.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable-xxhdpi\\gifts.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\timeline.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable-xxhdpi\\timeline.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\sport.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable-xxhdpi\\sport.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_plusone_small_off_client.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\exploded-aar\\prova10\\google-play-services_lib\\unspecified\\res\\drawable-xxhdpi-v4\\ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_signin_btn_icon_normal_dark.9.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\exploded-aar\\prova10\\google-play-services_lib\\unspecified\\res\\drawable-xxhdpi-v4\\common_signin_btn_icon_normal_dark.9.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\backup.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable-xxhdpi\\backup.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\atachments.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable-xxhdpi\\atachments.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_signin_btn_text_focus_light.9.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\exploded-aar\\prova10\\google-play-services_lib\\unspecified\\res\\drawable-xxhdpi-v4\\common_signin_btn_text_focus_light.9.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_signin_btn_text_disabled_focus_dark.9.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\exploded-aar\\prova10\\google-play-services_lib\\unspecified\\res\\drawable-xxhdpi-v4\\common_signin_btn_text_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_signin_btn_icon_focus_dark.9.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\exploded-aar\\prova10\\google-play-services_lib\\unspecified\\res\\drawable-xxhdpi-v4\\common_signin_btn_icon_focus_dark.9.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\login.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable-xxhdpi\\login.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\mobile.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable-xxhdpi\\mobile.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_plusone_tall_off_client.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\exploded-aar\\prova10\\google-play-services_lib\\unspecified\\res\\drawable-xxhdpi-v4\\ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\refresh.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable-xxhdpi\\refresh.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\dropbox.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable-xxhdpi\\dropbox.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_signin_btn_icon_normal_light.9.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\exploded-aar\\prova10\\google-play-services_lib\\unspecified\\res\\drawable-xxhdpi-v4\\common_signin_btn_icon_normal_light.9.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\places.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable-xxhdpi\\places.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\screen.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable-xxhdpi\\screen.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\home.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable-xxhdpi\\home.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\pinterest.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable-xxhdpi\\pinterest.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\globe.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable-xxhdpi\\globe.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\clouddown.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable-xxhdpi\\clouddown.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\education.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable-xxhdpi\\education.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\airplane.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable-xxhdpi\\airplane.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_plusone_standard_off_client.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\exploded-aar\\prova10\\google-play-services_lib\\unspecified\\res\\drawable-xxhdpi-v4\\ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\pricing.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable-xxhdpi\\pricing.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_signin_btn_text_focus_dark.9.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\exploded-aar\\prova10\\google-play-services_lib\\unspecified\\res\\drawable-xxhdpi-v4\\common_signin_btn_text_focus_dark.9.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\drawings.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable-xxhdpi\\drawings.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\dashboard.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable-xxhdpi\\dashboard.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_signin_btn_text_disabled_focus_light.9.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\exploded-aar\\prova10\\google-play-services_lib\\unspecified\\res\\drawable-xxhdpi-v4\\common_signin_btn_text_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\collections.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable-xxhdpi\\collections.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\cloudup.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable-xxhdpi\\cloudup.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\support.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable-xxhdpi\\support.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\luxury.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable-xxhdpi\\luxury.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\map.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable-xxhdpi\\map.png"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\layout\\left_menu_item.xml",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\layout\\left_menu_item.xml"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\layout\\contact.xml",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\layout\\contact.xml"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\layout\\splash_screen.xml",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\layout\\splash_screen.xml"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\layout\\web_view.xml",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\layout\\web_view.xml"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\layout\\about_us.xml",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\layout\\about_us.xml"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\layout\\map_activity.xml",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\layout\\map_activity.xml"
+    }
+]

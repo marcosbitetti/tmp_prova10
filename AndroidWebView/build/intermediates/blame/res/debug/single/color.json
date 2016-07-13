@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\color\\common_signin_btn_text_light.xml",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\exploded-aar\\prova10\\google-play-services_lib\\unspecified\\res\\color\\common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\color\\common_signin_btn_text_dark.xml",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\exploded-aar\\prova10\\google-play-services_lib\\unspecified\\res\\color\\common_signin_btn_text_dark.xml"
+    }
+]

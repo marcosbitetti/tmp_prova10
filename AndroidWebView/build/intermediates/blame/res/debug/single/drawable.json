@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_bar_drawable.xml",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable\\progress_bar_drawable.xml"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable\\white_button_selector.xml",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable\\white_button_selector.xml"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable\\about_us_divider.xml",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable\\about_us_divider.xml"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_default.png",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable\\icon_default.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable\\white_button_selected.xml",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable\\white_button_selected.xml"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable\\company_image.jpg",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable\\company_image.jpg"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_text_light.xml",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\exploded-aar\\prova10\\google-play-services_lib\\unspecified\\res\\drawable\\common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_icon_light.xml",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\exploded-aar\\prova10\\google-play-services_lib\\unspecified\\res\\drawable\\common_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable\\layout_item_selected.xml",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable\\layout_item_selected.xml"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable\\gradient_background.xml",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable\\gradient_background.xml"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable\\about_us_text_background.xml",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable\\about_us_text_background.xml"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable\\white_button_default.xml",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable\\white_button_default.xml"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable\\selectior_left_menu.xml",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable\\selectior_left_menu.xml"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable\\contact_divider.xml",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\drawable\\contact_divider.xml"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_text_dark.xml",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\exploded-aar\\prova10\\google-play-services_lib\\unspecified\\res\\drawable\\common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_icon_dark.xml",
+        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\exploded-aar\\prova10\\google-play-services_lib\\unspecified\\res\\drawable\\common_signin_btn_icon_dark.xml"
+    }
+]
