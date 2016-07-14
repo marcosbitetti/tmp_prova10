@@ -5,7 +5,7 @@
         jar="C:\xampp\htdocs\prova10\AndroidWebView\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         revision="22.0.1"
-        sha1="fb3bb74cf14dff04b9b2e245bdddbff023448419">
+        sha1="603dbcc46a0757158881501ad5c24cdf06ab137d">
         <dex dex="C:\xampp\htdocs\prova10\AndroidWebView\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5d6f127b74c65761cb44b16d3eaf38b8c7d85919\classes.dex" />
     </item>
     <item
@@ -44,18 +44,18 @@
         <dex dex="C:\xampp\htdocs\prova10\AndroidWebView\build\intermediates\transforms\dex\debug\folders\1000\2\gson-2.2.4_b70525c1bbc7e25686b7e80be5c5dde4671a3b12\classes.dex" />
     </item>
     <item
+        jar="C:\xampp\htdocs\prova10\AndroidWebView\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="ed6e6beea71800796995cca13c20836882aa8532">
+        <dex dex="C:\xampp\htdocs\prova10\AndroidWebView\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_82115253498ee3dc30b846f2321506815632fff0\classes.dex" />
+    </item>
+    <item
         jar="C:\xampp\htdocs\prova10\AndroidWebView\build\intermediates\exploded-aar\prova10\google-play-services_lib\unspecified\jars\libs\google-play-services.jar"
         jumboMode="true"
         revision="22.0.1"
         sha1="8d088a5d110c81a0147c297f409fe7b7fd2acb81">
         <dex dex="C:\xampp\htdocs\prova10\AndroidWebView\build\intermediates\transforms\dex\debug\folders\1000\8\google-play-services_cef0fe74519efa578a457e49087aa626e87c2101\classes.dex" />
-    </item>
-    <item
-        jar="C:\xampp\htdocs\prova10\AndroidWebView\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        revision="22.0.1"
-        sha1="04d5494aa1d6e477b15c07bc8ba6afd1dda0a5a0">
-        <dex dex="C:\xampp\htdocs\prova10\AndroidWebView\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_82115253498ee3dc30b846f2321506815632fff0\classes.dex" />
     </item>
 
 </items>

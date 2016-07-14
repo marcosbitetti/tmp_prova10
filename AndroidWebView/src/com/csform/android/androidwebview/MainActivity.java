@@ -182,20 +182,20 @@ public class MainActivity extends BaseActivity {
 		// or you can reorder them as you want
 
 		mLeftMenuItems = new ArrayList<LeftMenuItem>();
-		mLeftMenuItems.add(new LeftMenuItem(R.drawable.home, getString(R.string.home), LeftMenuItem.LEFT_MENU_HOME));
+		mLeftMenuItems.add(new LeftMenuItem(getString(R.string.home), LeftMenuItem.LEFT_MENU_HOME));
 		
 		//TODO If you want to add only pages from your site, delete form HERE
-		mLeftMenuItems.add(new LeftMenuItem(R.drawable.aboutus, getString(R.string.about_us), LeftMenuItem.LEFT_MENU_ABOUT));
-		mLeftMenuItems.add(new LeftMenuItem(R.drawable.contact, getString(R.string.contact), LeftMenuItem.LEFT_MENU_CONTACT));
-		mLeftMenuItems.add(new LeftMenuItem(R.drawable.facebook, getString(R.string.facebook), LeftMenuItem.LEFT_MENU_FACEBOOK));
-		mLeftMenuItems.add(new LeftMenuItem(R.drawable.youtube, getString(R.string.youtube), LeftMenuItem.LEFT_MENU_YOUTUBE_CHANNEL));
-		mLeftMenuItems.add(new LeftMenuItem(R.drawable.ltwiter, getString(R.string.twitter), LeftMenuItem.LEFT_MENU_TWITTER));
-		mLeftMenuItems.add(new LeftMenuItem(R.drawable.linkedin, getString(R.string.linked_in), LeftMenuItem.LEFT_MENU_LINKED_IN));
-		mLeftMenuItems.add(new LeftMenuItem(R.drawable.pinterest, getString(R.string.pinterest), LeftMenuItem.LEFT_MENU_PINTEREST));
-		mLeftMenuItems.add(new LeftMenuItem(R.drawable.flickr, getString(R.string.flickr), LeftMenuItem.LEFT_MENU_FLICKR));
+		mLeftMenuItems.add(new LeftMenuItem(getString(R.string.about_us), LeftMenuItem.LEFT_MENU_ABOUT));
+		mLeftMenuItems.add(new LeftMenuItem(getString(R.string.contact), LeftMenuItem.LEFT_MENU_CONTACT));
+		mLeftMenuItems.add(new LeftMenuItem(getString(R.string.facebook), LeftMenuItem.LEFT_MENU_FACEBOOK));
+		mLeftMenuItems.add(new LeftMenuItem(getString(R.string.youtube), LeftMenuItem.LEFT_MENU_YOUTUBE_CHANNEL));
+		mLeftMenuItems.add(new LeftMenuItem(getString(R.string.organizacao), LeftMenuItem.LEFT_MENU_ORGANIZACAO));
+		mLeftMenuItems.add(new LeftMenuItem(getString(R.string.linked_in), LeftMenuItem.LEFT_MENU_LINKED_IN));
+		mLeftMenuItems.add(new LeftMenuItem(getString(R.string.pinterest), LeftMenuItem.LEFT_MENU_PINTEREST));
+		mLeftMenuItems.add(new LeftMenuItem(getString(R.string.flickr), LeftMenuItem.LEFT_MENU_FLICKR));
 		//to HERE, and add pages below
 		
-		mLeftMenuItems.add(new LeftMenuItem(R.drawable.send, getString(R.string.page_from_your_site), LeftMenuItem.LEFT_PAGE_FROM_SITE));
+		mLeftMenuItems.add(new LeftMenuItem(getString(R.string.page_from_your_site), LeftMenuItem.LEFT_PAGE_FROM_SITE));
 		
 	}
 	
@@ -203,9 +203,9 @@ public class MainActivity extends BaseActivity {
 		//TODO If you have added item in initLeftMenuItem(), this is the place
 		//where you should add action on item click. No need to pay attention on
 		//order you put items in initLeftMenuItem() method, like shown below:
-		//(Facebook is in initLeftMenuItem() method added before Twitter, but
-		//in this method it is added after Twitter, but ordering in left menu
-		//is still: Facebook before Twitter)
+		//(Facebook is in initLeftMenuItem() method added before Organização, but
+		//in this method it is added after Organização, but ordering in left menu
+		//is still: Facebook before Organização)
 		
 		mDrawerLayout.closeDrawer(mDrawerList);
 		fragment = AboutUsFragment.newInstance();
@@ -221,9 +221,9 @@ public class MainActivity extends BaseActivity {
 		} else if (pos == LeftMenuItem.LEFT_MENU_CONTACT) {
 			fragment = ContactFragment.newInstance();
 			mTitle = getString(R.string.contact);
-		} else if (pos == LeftMenuItem.LEFT_MENU_TWITTER) {
-			fragment = WebViewFragment.newInstance(getString(R.string.my_twitter));
-			mTitle = getString(R.string.twitter);
+		} else if (pos == LeftMenuItem.LEFT_MENU_ORGANIZACAO) {
+			fragment = WebViewFragment.newInstance(getString(R.string.my_organizacao));
+			mTitle = getString(R.string.organizacao);
 		} else if (pos == LeftMenuItem.LEFT_MENU_FACEBOOK) {
 			fragment = WebViewFragment.newInstance(getString(R.string.my_facebook));
 			mTitle = getString(R.string.facebook);

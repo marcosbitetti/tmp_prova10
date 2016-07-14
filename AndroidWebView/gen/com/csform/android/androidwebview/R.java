@@ -518,7 +518,7 @@ containing a value of this type.
         public static final int my_linked_in=0x7f060043;
         public static final int my_page_from_your_site=0x7f060047;
         public static final int my_pinterest=0x7f060044;
-        public static final int my_twitter=0x7f060042;
+        public static final int my_organizacao=0x7f060042;
         public static final int my_youtube=0x7f060045;
         public static final int no_data_available=0x7f060033;
         public static final int number_not_available=0x7f060034;
@@ -529,7 +529,7 @@ containing a value of this type.
         public static final int pinterest=0x7f06003d;
         public static final int send=0x7f060031;
         public static final int subtitle=0x7f060025;
-        public static final int twitter=0x7f06003b;
+        public static final int organizacao=0x7f06003b;
         public static final int uri=0x7f060023;
         public static final int visit=0x7f060032;
         public static final int web=0x7f06002a;

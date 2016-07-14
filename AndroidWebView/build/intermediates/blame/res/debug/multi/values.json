@@ -1055,8 +1055,8 @@
                     "startLine": 99,
                     "startColumn": 4,
                     "startOffset": 8503,
-                    "endColumn": 84,
-                    "endOffset": 8583
+                    "endColumn": 75,
+                    "endOffset": 8574
                 },
                 "from": {
                     "file": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\values\\strings.xml"
@@ -1066,9 +1066,9 @@
                 "to": {
                     "startLine": 100,
                     "startColumn": 4,
-                    "startOffset": 8588,
-                    "endColumn": 67,
-                    "endOffset": 8651
+                    "startOffset": 8579,
+                    "endColumn": 84,
+                    "endOffset": 8659
                 },
                 "from": {
                     "file": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\values\\strings.xml"
@@ -1078,9 +1078,9 @@
                 "to": {
                     "startLine": 101,
                     "startColumn": 4,
-                    "startOffset": 8656,
+                    "startOffset": 8664,
                     "endColumn": 67,
-                    "endOffset": 8719
+                    "endOffset": 8727
                 },
                 "from": {
                     "file": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\values\\strings.xml"
@@ -1090,9 +1090,9 @@
                 "to": {
                     "startLine": 102,
                     "startColumn": 4,
-                    "startOffset": 8724,
+                    "startOffset": 8732,
                     "endColumn": 63,
-                    "endOffset": 8783
+                    "endOffset": 8791
                 },
                 "from": {
                     "file": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\values\\strings.xml"
@@ -1102,9 +1102,9 @@
                 "to": {
                     "startLine": 103,
                     "startColumn": 4,
-                    "startOffset": 8788,
+                    "startOffset": 8796,
                     "endColumn": 65,
-                    "endOffset": 8849
+                    "endOffset": 8857
                 },
                 "from": {
                     "file": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\values\\strings.xml"
@@ -1114,9 +1114,9 @@
                 "to": {
                     "startLine": 104,
                     "startColumn": 4,
-                    "startOffset": 8854,
+                    "startOffset": 8862,
                     "endColumn": 69,
-                    "endOffset": 8919
+                    "endOffset": 8927
                 },
                 "from": {
                     "file": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\values\\strings.xml"
@@ -1126,9 +1126,9 @@
                 "to": {
                     "startLine": 105,
                     "startColumn": 4,
-                    "startOffset": 8924,
+                    "startOffset": 8932,
                     "endColumn": 47,
-                    "endOffset": 8967
+                    "endOffset": 8975
                 },
                 "from": {
                     "file": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\values\\strings.xml"
@@ -1138,9 +1138,9 @@
                 "to": {
                     "startLine": 106,
                     "startColumn": 4,
-                    "startOffset": 8972,
+                    "startOffset": 8980,
                     "endColumn": 52,
-                    "endOffset": 9020
+                    "endOffset": 9028
                 },
                 "from": {
                     "file": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\values\\strings.xml"
@@ -1150,9 +1150,9 @@
                 "to": {
                     "startLine": 107,
                     "startColumn": 4,
-                    "startOffset": 9025,
-                    "endColumn": 67,
-                    "endOffset": 9088
+                    "startOffset": 9033,
+                    "endColumn": 51,
+                    "endOffset": 9080
                 },
                 "from": {
                     "file": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\values\\strings.xml"
@@ -1162,9 +1162,9 @@
                 "to": {
                     "startLine": 108,
                     "startColumn": 4,
-                    "startOffset": 9093,
-                    "endColumn": 55,
-                    "endOffset": 9144
+                    "startOffset": 9085,
+                    "endColumn": 67,
+                    "endOffset": 9148
                 },
                 "from": {
                     "file": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\values\\strings.xml"
@@ -1174,9 +1174,9 @@
                 "to": {
                     "startLine": 109,
                     "startColumn": 4,
-                    "startOffset": 9149,
-                    "endColumn": 47,
-                    "endOffset": 9192
+                    "startOffset": 9153,
+                    "endColumn": 55,
+                    "endOffset": 9204
                 },
                 "from": {
                     "file": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\values\\strings.xml"
@@ -1186,9 +1186,9 @@
                 "to": {
                     "startLine": 110,
                     "startColumn": 4,
-                    "startOffset": 9197,
-                    "endColumn": 37,
-                    "endOffset": 9230
+                    "startOffset": 9209,
+                    "endColumn": 47,
+                    "endOffset": 9252
                 },
                 "from": {
                     "file": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\values\\strings.xml"
@@ -1198,9 +1198,9 @@
                 "to": {
                     "startLine": 111,
                     "startColumn": 4,
-                    "startOffset": 9235,
-                    "endColumn": 45,
-                    "endOffset": 9276
+                    "startOffset": 9257,
+                    "endColumn": 37,
+                    "endOffset": 9290
                 },
                 "from": {
                     "file": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\values\\strings.xml"
@@ -1210,9 +1210,9 @@
                 "to": {
                     "startLine": 112,
                     "startColumn": 4,
-                    "startOffset": 9281,
-                    "endColumn": 43,
-                    "endOffset": 9320
+                    "startOffset": 9295,
+                    "endColumn": 45,
+                    "endOffset": 9336
                 },
                 "from": {
                     "file": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\values\\strings.xml"
@@ -1222,9 +1222,9 @@
                 "to": {
                     "startLine": 113,
                     "startColumn": 4,
-                    "startOffset": 9325,
+                    "startOffset": 9341,
                     "endColumn": 71,
-                    "endOffset": 9392
+                    "endOffset": 9408
                 },
                 "from": {
                     "file": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\values\\strings.xml",
@@ -1241,9 +1241,9 @@
                 "to": {
                     "startLine": 114,
                     "startColumn": 4,
-                    "startOffset": 9397,
+                    "startOffset": 9413,
                     "endColumn": 39,
-                    "endOffset": 9432
+                    "endOffset": 9448
                 },
                 "from": {
                     "file": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\values\\strings.xml"
@@ -1253,9 +1253,9 @@
                 "to": {
                     "startLine": 115,
                     "startColumn": 4,
-                    "startOffset": 9437,
+                    "startOffset": 9453,
                     "endColumn": 35,
-                    "endOffset": 9468
+                    "endOffset": 9484
                 },
                 "from": {
                     "file": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\values\\strings.xml"
@@ -1265,9 +1265,9 @@
                 "to": {
                     "startLine": 116,
                     "startColumn": 4,
-                    "startOffset": 9473,
+                    "startOffset": 9489,
                     "endColumn": 71,
-                    "endOffset": 9540
+                    "endOffset": 9556
                 },
                 "from": {
                     "file": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\values\\strings.xml"
@@ -1277,9 +1277,9 @@
                 "to": {
                     "startLine": 117,
                     "startColumn": 4,
-                    "startOffset": 9545,
+                    "startOffset": 9561,
                     "endColumn": 43,
-                    "endOffset": 9584
+                    "endOffset": 9600
                 },
                 "from": {
                     "file": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\values\\strings.xml"
@@ -1289,9 +1289,9 @@
                 "to": {
                     "startLine": 118,
                     "startColumn": 4,
-                    "startOffset": 9589,
+                    "startOffset": 9605,
                     "endColumn": 43,
-                    "endOffset": 9628
+                    "endOffset": 9644
                 },
                 "from": {
                     "file": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\values\\strings.xml"
@@ -1301,10 +1301,10 @@
                 "to": {
                     "startLine": 119,
                     "startColumn": 4,
-                    "startOffset": 9633,
+                    "startOffset": 9649,
                     "endLine": 125,
                     "endColumn": 12,
-                    "endOffset": 9919
+                    "endOffset": 9935
                 },
                 "from": {
                     "file": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\values\\styles.xml"
@@ -1314,10 +1314,10 @@
                 "to": {
                     "startLine": 126,
                     "startColumn": 4,
-                    "startOffset": 9924,
+                    "startOffset": 9940,
                     "endLine": 128,
                     "endColumn": 12,
-                    "endOffset": 10079
+                    "endOffset": 10095
                 },
                 "from": {
                     "file": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\values\\styles.xml"
@@ -1327,10 +1327,10 @@
                 "to": {
                     "startLine": 129,
                     "startColumn": 4,
-                    "startOffset": 10084,
+                    "startOffset": 10100,
                     "endLine": 131,
                     "endColumn": 12,
-                    "endOffset": 10257
+                    "endOffset": 10273
                 },
                 "from": {
                     "file": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\values\\styles.xml"
@@ -1340,10 +1340,10 @@
                 "to": {
                     "startLine": 132,
                     "startColumn": 4,
-                    "startOffset": 10262,
+                    "startOffset": 10278,
                     "endLine": 134,
                     "endColumn": 12,
-                    "endOffset": 10385
+                    "endOffset": 10401
                 },
                 "from": {
                     "file": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\values\\styles.xml"
@@ -1353,10 +1353,10 @@
                 "to": {
                     "startLine": 135,
                     "startColumn": 4,
-                    "startOffset": 10390,
+                    "startOffset": 10406,
                     "endLine": 137,
                     "endColumn": 12,
-                    "endOffset": 10571
+                    "endOffset": 10587
                 },
                 "from": {
                     "file": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\values\\styles.xml"
@@ -1366,10 +1366,10 @@
                 "to": {
                     "startLine": 138,
                     "startColumn": 4,
-                    "startOffset": 10576,
+                    "startOffset": 10592,
                     "endLine": 144,
                     "endColumn": 12,
-                    "endOffset": 10958
+                    "endOffset": 10974
                 },
                 "from": {
                     "file": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\values\\styles.xml"

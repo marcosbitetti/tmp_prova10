@@ -4,7 +4,7 @@
     api-level="21"
     density="xxhdpi"
     format="7"
-    timestamp="15712756236989"
+    timestamp="11386624008167"
     token="-5355263121610399639" >
 
     <task
@@ -20,16 +20,14 @@
         name="verifier"
         duration="0" />
 
-    <build timestamp="13514158371727" >
+    <artifact
+        location="C:\xampp\htdocs\prova10\AndroidWebView\build\outputs\apk\AndroidWebView-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="11386624008167" >
         <artifact
             location="C:\xampp\htdocs\prova10\AndroidWebView\build\outputs\apk\AndroidWebView-debug.apk"
             type="MAIN" />
     </build>
-    <build timestamp="13682963514463" >
-        <artifact
-            location="C:\xampp\htdocs\prova10\AndroidWebView\build\intermediates\res\resources-debug.ap_"
-            type="RESOURCES" />
-    </build>
-    <build timestamp="15712756236989" />
 
 </instant-run>

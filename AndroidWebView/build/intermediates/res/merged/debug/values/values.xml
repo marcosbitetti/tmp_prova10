@@ -97,21 +97,21 @@
     <string name="my_facebook">https://www.facebook.com/csform?fref=ts</string>
     <string name="my_flickr">https://www.flickr.com</string>
     <string name="my_linked_in">https://www.linkedin.com/</string>
+    <string name="my_organizacao">https://organizacao.com/?lang=en</string>
     <string name="my_page_from_your_site">http://csform.com/our-services-3/</string>
     <string name="my_pinterest">https://www.pinterest.com/</string>
-    <string name="my_twitter">https://twitter.com/?lang=en</string>
     <string name="my_youtube">https://www.youtube.com/</string>
     <string name="no_data_available">(no data available)</string>
     <string name="number_not_available">Number not available</string>
     <string name="office_phone">OFFICE</string>
     <string name="open_map">VIEW ON THE MAP</string>
+    <string name="organizacao">Organização</string>
     <string name="page_from_your_site">Page From Your Site</string>
     <string name="phone_numbers">PHONE NUMBERS</string>
     <string name="pinterest">Pinterest</string>
     <string name="send">SEND</string>
     <string name="subtitle">ABOUT US</string>
-    <string name="twitter">Twitter</string>
-    <string name="uri">http://prova10.com.br/login-mobile.html</string>
+    <string name="uri">http://prova10.com.br/index-mobile.html</string>
     <string name="visit">VISIT</string>
     <string name="web">WEB</string>
     <string name="website_not_available">Website not available</string>
