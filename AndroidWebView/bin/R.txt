@@ -263,7 +263,7 @@ int string my_flickr 0x7f060046
 int string my_linked_in 0x7f060043
 int string my_page_from_your_site 0x7f060047
 int string my_pinterest 0x7f060044
-int string my_organizacao 0x7f060042
+int string my_twitter 0x7f060042
 int string my_youtube 0x7f060045
 int string no_data_available 0x7f060033
 int string number_not_available 0x7f060034
@@ -274,7 +274,7 @@ int string phone_numbers 0x7f06002f
 int string pinterest 0x7f06003d
 int string send 0x7f060031
 int string subtitle 0x7f060025
-int string organizacao 0x7f06003b
+int string twitter 0x7f06003b
 int string uri 0x7f060023
 int string visit 0x7f060032
 int string web 0x7f06002a

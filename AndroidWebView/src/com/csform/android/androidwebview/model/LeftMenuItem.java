@@ -6,7 +6,7 @@ public class LeftMenuItem {
 	public static final long LEFT_MENU_ABOUT = 12;
 	public static final long LEFT_MENU_CONTACT = 13;
 	public static final long LEFT_MENU_FACEBOOK = 14;
-	public static final long LEFT_MENU_ORGANIZACAO = 15;
+	public static final long LEFT_MENU_TWITTER = 15;
 	public static final long LEFT_MENU_LINKED_IN = 16;
 	public static final long LEFT_MENU_PINTEREST = 17;
 	public static final long LEFT_MENU_YOUTUBE_CHANNEL = 18;
@@ -16,9 +16,9 @@ public class LeftMenuItem {
 	private int icon;
 	private String name;
 	private long tag;
-
-//	public LeftMenuItem(int icon, String name, long tag) {
-	public LeftMenuItem(String name, long tag) {
+	
+	public LeftMenuItem(int icon, String name, long tag) {
+		this.icon = icon;
 		this.name = name;
 		this.tag = tag;
 	}

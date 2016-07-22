@@ -5,8 +5,13 @@
         jar="/home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/libs/gallery-lib.jar"
         jumboMode="false"
         revision="22.0.1"
+<<<<<<< HEAD
         sha1="e99b23840e364405f578e3d75d5ddde501837d59">
         <dex dex="/home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/build/intermediates/pre-dexed/debug/gallery-lib_79da22e96f984510fa7c62ebbd2c33f23b3ea7bd.jar" />
+=======
+        sha1="fb3bb74cf14dff04b9b2e245bdddbff023448419">
+        <dex dex="C:\xampp\htdocs\prova10\AndroidWebView\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5d6f127b74c65761cb44b16d3eaf38b8c7d85919\classes.dex" />
+>>>>>>> parent of d7018c3... inicial 2
     </item>
     <item
         jar="/home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/libs/libGoogleAnalyticsServices.jar"
@@ -65,6 +70,7 @@
         <dex dex="/home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/build/intermediates/pre-dexed/debug/google-play-services_bb6dbdcf4d07390256ced660ab0dc47caf4bc420.jar" />
     </item>
     <item
+<<<<<<< HEAD
         jar="/home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/build/intermediates/exploded-aar/prova10/google-play-services_lib/unspecified/jars/classes.jar"
         jumboMode="false"
         revision="22.0.1"
@@ -77,6 +83,20 @@
         revision="22.0.1"
         sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
         <dex dex="/home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_913561b17c6f6bac22c20b500d7963b64e52bec2.jar" />
+=======
+        jar="C:\xampp\htdocs\prova10\AndroidWebView\build\intermediates\exploded-aar\prova10\google-play-services_lib\unspecified\jars\libs\google-play-services.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="8d088a5d110c81a0147c297f409fe7b7fd2acb81">
+        <dex dex="C:\xampp\htdocs\prova10\AndroidWebView\build\intermediates\transforms\dex\debug\folders\1000\8\google-play-services_cef0fe74519efa578a457e49087aa626e87c2101\classes.dex" />
+    </item>
+    <item
+        jar="C:\xampp\htdocs\prova10\AndroidWebView\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="04d5494aa1d6e477b15c07bc8ba6afd1dda0a5a0">
+        <dex dex="C:\xampp\htdocs\prova10\AndroidWebView\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_82115253498ee3dc30b846f2321506815632fff0\classes.dex" />
+>>>>>>> parent of d7018c3... inicial 2
     </item>
 
 </items>

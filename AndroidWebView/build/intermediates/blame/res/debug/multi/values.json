@@ -11188,9 +11188,15 @@
                 "to": {
                     "startLine": 1600,
                     "startColumn": 4,
+<<<<<<< HEAD
                     "startOffset": 122467,
                     "endColumn": 100,
                     "endOffset": 122563
+=======
+                    "startOffset": 8503,
+                    "endColumn": 84,
+                    "endOffset": 8583
+>>>>>>> parent of d7018c3... inicial 2
                 },
                 "from": {
                     "file": "/home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -11207,9 +11213,15 @@
                 "to": {
                     "startLine": 1601,
                     "startColumn": 4,
+<<<<<<< HEAD
                     "startOffset": 122568,
                     "endColumn": 104,
                     "endOffset": 122668
+=======
+                    "startOffset": 8588,
+                    "endColumn": 67,
+                    "endOffset": 8651
+>>>>>>> parent of d7018c3... inicial 2
                 },
                 "from": {
                     "file": "/home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -11226,10 +11238,16 @@
                 "to": {
                     "startLine": 1602,
                     "startColumn": 4,
+<<<<<<< HEAD
                     "startOffset": 122673,
                     "endLine": 1603,
                     "endColumn": 12,
                     "endOffset": 122780
+=======
+                    "startOffset": 8656,
+                    "endColumn": 67,
+                    "endOffset": 8719
+>>>>>>> parent of d7018c3... inicial 2
                 },
                 "from": {
                     "file": "/home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -11247,10 +11265,16 @@
                 "to": {
                     "startLine": 1604,
                     "startColumn": 4,
+<<<<<<< HEAD
                     "startOffset": 122785,
                     "endLine": 1605,
                     "endColumn": 12,
                     "endOffset": 122910
+=======
+                    "startOffset": 8724,
+                    "endColumn": 63,
+                    "endOffset": 8783
+>>>>>>> parent of d7018c3... inicial 2
                 },
                 "from": {
                     "file": "/home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -11268,9 +11292,15 @@
                 "to": {
                     "startLine": 1606,
                     "startColumn": 4,
+<<<<<<< HEAD
                     "startOffset": 122915,
                     "endColumn": 90,
                     "endOffset": 123001
+=======
+                    "startOffset": 8788,
+                    "endColumn": 65,
+                    "endOffset": 8849
+>>>>>>> parent of d7018c3... inicial 2
                 },
                 "from": {
                     "file": "/home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -11287,9 +11317,15 @@
                 "to": {
                     "startLine": 1607,
                     "startColumn": 4,
+<<<<<<< HEAD
                     "startOffset": 123006,
                     "endColumn": 122,
                     "endOffset": 123124
+=======
+                    "startOffset": 8854,
+                    "endColumn": 69,
+                    "endOffset": 8919
+>>>>>>> parent of d7018c3... inicial 2
                 },
                 "from": {
                     "file": "/home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -11306,10 +11342,16 @@
                 "to": {
                     "startLine": 1608,
                     "startColumn": 4,
+<<<<<<< HEAD
                     "startOffset": 123129,
                     "endLine": 1609,
                     "endColumn": 12,
                     "endOffset": 123236
+=======
+                    "startOffset": 8924,
+                    "endColumn": 47,
+                    "endOffset": 8967
+>>>>>>> parent of d7018c3... inicial 2
                 },
                 "from": {
                     "file": "/home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -11327,9 +11369,15 @@
                 "to": {
                     "startLine": 1610,
                     "startColumn": 4,
+<<<<<<< HEAD
                     "startOffset": 123241,
                     "endColumn": 85,
                     "endOffset": 123322
+=======
+                    "startOffset": 8972,
+                    "endColumn": 52,
+                    "endOffset": 9020
+>>>>>>> parent of d7018c3... inicial 2
                 },
                 "from": {
                     "file": "/home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -11346,9 +11394,15 @@
                 "to": {
                     "startLine": 1611,
                     "startColumn": 4,
+<<<<<<< HEAD
                     "startOffset": 123327,
                     "endColumn": 103,
                     "endOffset": 123426
+=======
+                    "startOffset": 9025,
+                    "endColumn": 67,
+                    "endOffset": 9088
+>>>>>>> parent of d7018c3... inicial 2
                 },
                 "from": {
                     "file": "/home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -11365,10 +11419,16 @@
                 "to": {
                     "startLine": 1612,
                     "startColumn": 4,
+<<<<<<< HEAD
                     "startOffset": 123431,
                     "endLine": 1613,
                     "endColumn": 12,
                     "endOffset": 123534
+=======
+                    "startOffset": 9093,
+                    "endColumn": 55,
+                    "endOffset": 9144
+>>>>>>> parent of d7018c3... inicial 2
                 },
                 "from": {
                     "file": "/home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -11386,10 +11446,16 @@
                 "to": {
                     "startLine": 1614,
                     "startColumn": 4,
+<<<<<<< HEAD
                     "startOffset": 123539,
                     "endLine": 1615,
                     "endColumn": 12,
                     "endOffset": 123634
+=======
+                    "startOffset": 9149,
+                    "endColumn": 47,
+                    "endOffset": 9192
+>>>>>>> parent of d7018c3... inicial 2
                 },
                 "from": {
                     "file": "/home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -11407,10 +11473,16 @@
                 "to": {
                     "startLine": 1616,
                     "startColumn": 4,
+<<<<<<< HEAD
                     "startOffset": 123639,
                     "endLine": 1617,
                     "endColumn": 12,
                     "endOffset": 123752
+=======
+                    "startOffset": 9197,
+                    "endColumn": 37,
+                    "endOffset": 9230
+>>>>>>> parent of d7018c3... inicial 2
                 },
                 "from": {
                     "file": "/home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -11428,10 +11500,16 @@
                 "to": {
                     "startLine": 1618,
                     "startColumn": 4,
+<<<<<<< HEAD
                     "startOffset": 123757,
                     "endLine": 1619,
                     "endColumn": 12,
                     "endOffset": 123856
+=======
+                    "startOffset": 9235,
+                    "endColumn": 45,
+                    "endOffset": 9276
+>>>>>>> parent of d7018c3... inicial 2
                 },
                 "from": {
                     "file": "/home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -11449,10 +11527,16 @@
                 "to": {
                     "startLine": 1620,
                     "startColumn": 4,
+<<<<<<< HEAD
                     "startOffset": 123861,
                     "endLine": 1621,
                     "endColumn": 12,
                     "endOffset": 123960
+=======
+                    "startOffset": 9281,
+                    "endColumn": 43,
+                    "endOffset": 9320
+>>>>>>> parent of d7018c3... inicial 2
                 },
                 "from": {
                     "file": "/home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -11470,10 +11554,16 @@
                 "to": {
                     "startLine": 1622,
                     "startColumn": 4,
+<<<<<<< HEAD
                     "startOffset": 123965,
                     "endLine": 1623,
                     "endColumn": 12,
                     "endOffset": 124086
+=======
+                    "startOffset": 9325,
+                    "endColumn": 71,
+                    "endOffset": 9392
+>>>>>>> parent of d7018c3... inicial 2
                 },
                 "from": {
                     "file": "/home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -11491,9 +11581,15 @@
                 "to": {
                     "startLine": 1624,
                     "startColumn": 4,
+<<<<<<< HEAD
                     "startOffset": 124091,
                     "endColumn": 87,
                     "endOffset": 124174
+=======
+                    "startOffset": 9397,
+                    "endColumn": 39,
+                    "endOffset": 9432
+>>>>>>> parent of d7018c3... inicial 2
                 },
                 "from": {
                     "file": "/home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -11510,9 +11606,15 @@
                 "to": {
                     "startLine": 1625,
                     "startColumn": 4,
+<<<<<<< HEAD
                     "startOffset": 124179,
                     "endColumn": 89,
                     "endOffset": 124264
+=======
+                    "startOffset": 9437,
+                    "endColumn": 35,
+                    "endOffset": 9468
+>>>>>>> parent of d7018c3... inicial 2
                 },
                 "from": {
                     "file": "/home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -11529,9 +11631,15 @@
                 "to": {
                     "startLine": 1626,
                     "startColumn": 4,
+<<<<<<< HEAD
                     "startOffset": 124269,
                     "endColumn": 109,
                     "endOffset": 124374
+=======
+                    "startOffset": 9473,
+                    "endColumn": 71,
+                    "endOffset": 9540
+>>>>>>> parent of d7018c3... inicial 2
                 },
                 "from": {
                     "file": "/home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -11548,9 +11656,15 @@
                 "to": {
                     "startLine": 1627,
                     "startColumn": 4,
+<<<<<<< HEAD
                     "startOffset": 124379,
                     "endColumn": 83,
                     "endOffset": 124458
+=======
+                    "startOffset": 9545,
+                    "endColumn": 43,
+                    "endOffset": 9584
+>>>>>>> parent of d7018c3... inicial 2
                 },
                 "from": {
                     "file": "/home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -11567,9 +11681,15 @@
                 "to": {
                     "startLine": 1628,
                     "startColumn": 4,
+<<<<<<< HEAD
                     "startOffset": 124463,
                     "endColumn": 83,
                     "endOffset": 124542
+=======
+                    "startOffset": 9589,
+                    "endColumn": 43,
+                    "endOffset": 9628
+>>>>>>> parent of d7018c3... inicial 2
                 },
                 "from": {
                     "file": "/home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -11586,9 +11706,16 @@
                 "to": {
                     "startLine": 1629,
                     "startColumn": 4,
+<<<<<<< HEAD
                     "startOffset": 124547,
                     "endColumn": 53,
                     "endOffset": 124596
+=======
+                    "startOffset": 9633,
+                    "endLine": 125,
+                    "endColumn": 12,
+                    "endOffset": 9919
+>>>>>>> parent of d7018c3... inicial 2
                 },
                 "from": {
                     "file": "/home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -11605,9 +11732,16 @@
                 "to": {
                     "startLine": 1630,
                     "startColumn": 4,
+<<<<<<< HEAD
                     "startOffset": 124601,
                     "endColumn": 63,
                     "endOffset": 124660
+=======
+                    "startOffset": 9924,
+                    "endLine": 128,
+                    "endColumn": 12,
+                    "endOffset": 10079
+>>>>>>> parent of d7018c3... inicial 2
                 },
                 "from": {
                     "file": "/home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -11624,9 +11758,16 @@
                 "to": {
                     "startLine": 1631,
                     "startColumn": 4,
+<<<<<<< HEAD
                     "startOffset": 124665,
                     "endColumn": 105,
                     "endOffset": 124766
+=======
+                    "startOffset": 10084,
+                    "endLine": 131,
+                    "endColumn": 12,
+                    "endOffset": 10257
+>>>>>>> parent of d7018c3... inicial 2
                 },
                 "from": {
                     "file": "/home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -11643,9 +11784,16 @@
                 "to": {
                     "startLine": 1632,
                     "startColumn": 4,
+<<<<<<< HEAD
                     "startOffset": 124771,
                     "endColumn": 109,
                     "endOffset": 124876
+=======
+                    "startOffset": 10262,
+                    "endLine": 134,
+                    "endColumn": 12,
+                    "endOffset": 10385
+>>>>>>> parent of d7018c3... inicial 2
                 },
                 "from": {
                     "file": "/home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -11662,9 +11810,16 @@
                 "to": {
                     "startLine": 1633,
                     "startColumn": 4,
+<<<<<<< HEAD
                     "startOffset": 124881,
                     "endColumn": 83,
                     "endOffset": 124960
+=======
+                    "startOffset": 10390,
+                    "endLine": 137,
+                    "endColumn": 12,
+                    "endOffset": 10571
+>>>>>>> parent of d7018c3... inicial 2
                 },
                 "from": {
                     "file": "/home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -11681,9 +11836,16 @@
                 "to": {
                     "startLine": 1634,
                     "startColumn": 4,
+<<<<<<< HEAD
                     "startOffset": 124965,
                     "endColumn": 119,
                     "endOffset": 125080
+=======
+                    "startOffset": 10576,
+                    "endLine": 144,
+                    "endColumn": 12,
+                    "endOffset": 10958
+>>>>>>> parent of d7018c3... inicial 2
                 },
                 "from": {
                     "file": "/home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
