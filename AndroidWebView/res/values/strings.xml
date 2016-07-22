@@ -57,5 +57,6 @@
     <string name="my_youtube">https://www.youtube.com/</string>
     <string name="my_flickr">https://www.flickr.com</string>
     <string name="my_page_from_your_site">http://csform.com/our-services-3/</string>
+    <string name="title_activity_splash">SplashActivity</string>
 
 </resources>

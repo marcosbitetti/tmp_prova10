@@ -1,100 +1,146 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\xampp\htdocs\prova10\AndroidWebView\AndroidManifest.xml:2:1-52:12
+ADDED from /home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/AndroidManifest.xml:2:1-79:12
 	package
-		ADDED from C:\xampp\htdocs\prova10\AndroidWebView\AndroidManifest.xml:3:5-48
+		ADDED from /home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/AndroidManifest.xml:3:5-48
 	android:versionName
-		ADDED from C:\xampp\htdocs\prova10\AndroidWebView\AndroidManifest.xml:5:5-30
-		INJECTED from C:\xampp\htdocs\prova10\AndroidWebView\AndroidManifest.xml
-		INJECTED from C:\xampp\htdocs\prova10\AndroidWebView\AndroidManifest.xml
+		ADDED from /home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/AndroidManifest.xml:5:5-30
+		INJECTED from /home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/AndroidManifest.xml
+		INJECTED from /home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/AndroidManifest.xml
 	android:versionCode
-		ADDED from C:\xampp\htdocs\prova10\AndroidWebView\AndroidManifest.xml:4:5-28
-		INJECTED from C:\xampp\htdocs\prova10\AndroidWebView\AndroidManifest.xml
-		INJECTED from C:\xampp\htdocs\prova10\AndroidWebView\AndroidManifest.xml
+		ADDED from /home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/AndroidManifest.xml:4:5-28
+		INJECTED from /home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/AndroidManifest.xml
+		INJECTED from /home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\xampp\htdocs\prova10\AndroidWebView\AndroidManifest.xml:2:11-69
+		ADDED from /home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/AndroidManifest.xml:2:11-69
 uses-sdk
-ADDED from C:\xampp\htdocs\prova10\AndroidWebView\AndroidManifest.xml:7:5-9:41
-MERGED from [prova10:google-play-services_lib:unspecified] C:\xampp\htdocs\prova10\AndroidWebView\build\intermediates\exploded-aar\prova10\google-play-services_lib\unspecified\AndroidManifest.xml:7:5-43
+ADDED from /home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/AndroidManifest.xml:7:5-9:41
+MERGED from [prova10:google-play-services_lib:unspecified] /home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/build/intermediates/exploded-aar/prova10/google-play-services_lib/unspecified/AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:appcompat-v7:23.1.1] /home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] /home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:20:5-43
 	android:targetSdkVersion
-		ADDED from C:\xampp\htdocs\prova10\AndroidWebView\AndroidManifest.xml:9:9-38
+		ADDED from /home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/AndroidManifest.xml:9:9-38
 	android:minSdkVersion
-		ADDED from C:\xampp\htdocs\prova10\AndroidWebView\AndroidManifest.xml:8:9-35
+		ADDED from /home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/AndroidManifest.xml:8:9-35
 uses-permission#android.permission.INTERNET
-ADDED from C:\xampp\htdocs\prova10\AndroidWebView\AndroidManifest.xml:11:5-67
+ADDED from /home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/AndroidManifest.xml:11:5-67
 	android:name
-		ADDED from C:\xampp\htdocs\prova10\AndroidWebView\AndroidManifest.xml:11:22-64
+		ADDED from /home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/AndroidManifest.xml:11:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from C:\xampp\htdocs\prova10\AndroidWebView\AndroidManifest.xml:12:5-79
+ADDED from /home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/AndroidManifest.xml:12:5-79
 	android:name
-		ADDED from C:\xampp\htdocs\prova10\AndroidWebView\AndroidManifest.xml:12:22-76
+		ADDED from /home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/AndroidManifest.xml:12:22-76
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from C:\xampp\htdocs\prova10\AndroidWebView\AndroidManifest.xml:13:5-81
+ADDED from /home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/AndroidManifest.xml:13:5-81
 	android:name
-		ADDED from C:\xampp\htdocs\prova10\AndroidWebView\AndroidManifest.xml:13:22-78
+		ADDED from /home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/AndroidManifest.xml:13:22-78
 uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
-ADDED from C:\xampp\htdocs\prova10\AndroidWebView\AndroidManifest.xml:14:5-98
+ADDED from /home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/AndroidManifest.xml:14:5-98
 	android:name
-		ADDED from C:\xampp\htdocs\prova10\AndroidWebView\AndroidManifest.xml:14:22-95
+		ADDED from /home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/AndroidManifest.xml:14:22-95
 uses-permission#android.permission.CALL_PHONE
-ADDED from C:\xampp\htdocs\prova10\AndroidWebView\AndroidManifest.xml:15:5-69
+ADDED from /home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/AndroidManifest.xml:15:5-69
 	android:name
-		ADDED from C:\xampp\htdocs\prova10\AndroidWebView\AndroidManifest.xml:15:22-66
+		ADDED from /home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/AndroidManifest.xml:15:22-66
 uses-feature#0x00020000
-ADDED from C:\xampp\htdocs\prova10\AndroidWebView\AndroidManifest.xml:17:5-19:35
+ADDED from /home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/AndroidManifest.xml:17:5-19:35
 	android:glEsVersion
-		ADDED from C:\xampp\htdocs\prova10\AndroidWebView\AndroidManifest.xml:18:9-41
+		ADDED from /home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/AndroidManifest.xml:18:9-41
 	android:required
-		ADDED from C:\xampp\htdocs\prova10\AndroidWebView\AndroidManifest.xml:19:9-32
+		ADDED from /home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/AndroidManifest.xml:19:9-32
+android:uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/AndroidManifest.xml:21:5-83
+	android:name
+		ADDED from /home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/AndroidManifest.xml:21:30-80
+android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/AndroidManifest.xml:22:5-88
+	android:name
+		ADDED from /home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/AndroidManifest.xml:22:30-85
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from /home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/AndroidManifest.xml:28:5-74
+	android:name
+		ADDED from /home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/AndroidManifest.xml:28:22-71
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/AndroidManifest.xml:29:5-71
+	android:name
+		ADDED from /home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/AndroidManifest.xml:29:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from /home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/AndroidManifest.xml:30:5-71
+	android:name
+		ADDED from /home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/AndroidManifest.xml:30:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/AndroidManifest.xml:31:5-72
+	android:name
+		ADDED from /home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/AndroidManifest.xml:31:22-69
+android:uses-permission#android.permission.READ_CALL_LOG
+ADDED from /home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/AndroidManifest.xml:33:5-80
+	android:name
+		ADDED from /home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/AndroidManifest.xml:33:30-77
 application
-ADDED from C:\xampp\htdocs\prova10\AndroidWebView\AndroidManifest.xml:21:5-50:19
+ADDED from /home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/AndroidManifest.xml:35:5-77:19
+MERGED from [com.android.support:appcompat-v7:23.1.1] /home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] /home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:22:5-20
 	android:label
-		ADDED from C:\xampp\htdocs\prova10\AndroidWebView\AndroidManifest.xml:24:9-41
+		ADDED from /home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/AndroidManifest.xml:38:9-41
 	android:allowBackup
-		ADDED from C:\xampp\htdocs\prova10\AndroidWebView\AndroidManifest.xml:22:9-35
+		ADDED from /home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/AndroidManifest.xml:36:9-35
 	android:icon
-		ADDED from C:\xampp\htdocs\prova10\AndroidWebView\AndroidManifest.xml:23:9-45
+		ADDED from /home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/AndroidManifest.xml:37:9-45
 	android:theme
-		ADDED from C:\xampp\htdocs\prova10\AndroidWebView\AndroidManifest.xml:25:9-52
+		ADDED from /home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/AndroidManifest.xml:39:9-52
 meta-data#com.google.android.gms.version
-ADDED from C:\xampp\htdocs\prova10\AndroidWebView\AndroidManifest.xml:26:9-28:69
+ADDED from /home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/AndroidManifest.xml:40:9-42:69
 	android:value
-		ADDED from C:\xampp\htdocs\prova10\AndroidWebView\AndroidManifest.xml:28:13-66
+		ADDED from /home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/AndroidManifest.xml:42:13-66
 	android:name
-		ADDED from C:\xampp\htdocs\prova10\AndroidWebView\AndroidManifest.xml:27:13-58
+		ADDED from /home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/AndroidManifest.xml:41:13-58
 meta-data#com.google.android.maps.v2.API_KEY
-ADDED from C:\xampp\htdocs\prova10\AndroidWebView\AndroidManifest.xml:29:9-31:71
+ADDED from /home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/AndroidManifest.xml:43:9-45:71
 	android:value
-		ADDED from C:\xampp\htdocs\prova10\AndroidWebView\AndroidManifest.xml:31:13-68
+		ADDED from /home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/AndroidManifest.xml:45:13-68
 	android:name
-		ADDED from C:\xampp\htdocs\prova10\AndroidWebView\AndroidManifest.xml:30:13-62
+		ADDED from /home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/AndroidManifest.xml:44:13-62
 activity#com.csform.android.androidwebview.MainActivity
-ADDED from C:\xampp\htdocs\prova10\AndroidWebView\AndroidManifest.xml:32:9-41:20
+ADDED from /home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/AndroidManifest.xml:47:9-52:20
 	android:label
-		ADDED from C:\xampp\htdocs\prova10\AndroidWebView\AndroidManifest.xml:35:13-45
+		ADDED from /home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/AndroidManifest.xml:50:13-45
 	android:configChanges
-		ADDED from C:\xampp\htdocs\prova10\AndroidWebView\AndroidManifest.xml:34:13-186
+		ADDED from /home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/AndroidManifest.xml:49:13-186
 	android:name
-		ADDED from C:\xampp\htdocs\prova10\AndroidWebView\AndroidManifest.xml:33:13-74
-intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\xampp\htdocs\prova10\AndroidWebView\AndroidManifest.xml:36:13-40:29
-action#android.intent.action.MAIN
-ADDED from C:\xampp\htdocs\prova10\AndroidWebView\AndroidManifest.xml:37:17-69
-	android:name
-		ADDED from C:\xampp\htdocs\prova10\AndroidWebView\AndroidManifest.xml:37:25-66
-category#android.intent.category.LAUNCHER
-ADDED from C:\xampp\htdocs\prova10\AndroidWebView\AndroidManifest.xml:39:17-77
-	android:name
-		ADDED from C:\xampp\htdocs\prova10\AndroidWebView\AndroidManifest.xml:39:27-74
+		ADDED from /home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/AndroidManifest.xml:48:13-41
 activity#com.csform.android.androidwebview.MapActivity
-ADDED from C:\xampp\htdocs\prova10\AndroidWebView\AndroidManifest.xml:42:9-45:20
+ADDED from /home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/AndroidManifest.xml:53:9-56:20
 	android:configChanges
-		ADDED from C:\xampp\htdocs\prova10\AndroidWebView\AndroidManifest.xml:44:13-186
+		ADDED from /home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/AndroidManifest.xml:55:13-186
 	android:name
-		ADDED from C:\xampp\htdocs\prova10\AndroidWebView\AndroidManifest.xml:43:13-73
+		ADDED from /home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/AndroidManifest.xml:54:13-40
 activity#com.google.android.gms.ads.AdActivity
-ADDED from C:\xampp\htdocs\prova10\AndroidWebView\AndroidManifest.xml:46:9-49:20
+ADDED from /home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/AndroidManifest.xml:57:9-60:20
 	android:configChanges
-		ADDED from C:\xampp\htdocs\prova10\AndroidWebView\AndroidManifest.xml:48:13-122
+		ADDED from /home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/AndroidManifest.xml:59:13-122
 	android:name
-		ADDED from C:\xampp\htdocs\prova10\AndroidWebView\AndroidManifest.xml:47:13-65
+		ADDED from /home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/AndroidManifest.xml:58:13-65
+activity#com.csform.android.androidwebview.SplashActivity
+ADDED from /home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/AndroidManifest.xml:61:9-71:20
+	android:label
+		ADDED from /home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/AndroidManifest.xml:63:13-58
+	android:name
+		ADDED from /home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/AndroidManifest.xml:62:13-43
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/AndroidManifest.xml:65:13-69:29
+action#android.intent.action.MAIN
+ADDED from /home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/AndroidManifest.xml:66:17-69
+	android:name
+		ADDED from /home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/AndroidManifest.xml:66:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/AndroidManifest.xml:68:17-77
+	android:name
+		ADDED from /home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/AndroidManifest.xml:68:27-74
+activity#com.csform.android.androidwebview.LoginActivity
+ADDED from /home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/AndroidManifest.xml:72:9-76:20
+	android:label
+		ADDED from /home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/AndroidManifest.xml:74:13-57
+	android:windowSoftInputMode
+		ADDED from /home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/AndroidManifest.xml:75:13-67
+	android:name
+		ADDED from /home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/AndroidManifest.xml:73:13-42

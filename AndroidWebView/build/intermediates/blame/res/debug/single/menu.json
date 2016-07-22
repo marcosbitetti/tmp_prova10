@@ -1,6 +1,10 @@
 [
     {
-        "merged": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
-        "source": "C:\\xampp\\htdocs\\prova10\\AndroidWebView\\res\\menu\\main.xml"
+        "merged": "/home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/res/menu/main.xml"
+    },
+    {
+        "merged": "/home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/build/intermediates/res/merged/debug/menu/menu_splash.xml",
+        "source": "/home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/res/menu/menu_splash.xml"
     }
 ]

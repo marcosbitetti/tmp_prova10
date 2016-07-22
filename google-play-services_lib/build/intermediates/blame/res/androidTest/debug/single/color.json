@@ -1,10 +1,10 @@
 [
     {
-        "merged": "C:\\xampp\\htdocs\\prova10\\google-play-services_lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\common_signin_btn_text_dark.xml",
-        "source": "C:\\xampp\\htdocs\\prova10\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\color\\common_signin_btn_text_dark.xml"
+        "merged": "/home/bitetti/trabalhos/hamilton/prova10/google-play-services_lib/build/intermediates/res/merged/androidTest/debug/color/common_signin_btn_text_light.xml",
+        "source": "/home/bitetti/trabalhos/hamilton/prova10/google-play-services_lib/build/intermediates/bundles/debug/res/color/common_signin_btn_text_light.xml"
     },
     {
-        "merged": "C:\\xampp\\htdocs\\prova10\\google-play-services_lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\common_signin_btn_text_light.xml",
-        "source": "C:\\xampp\\htdocs\\prova10\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\color\\common_signin_btn_text_light.xml"
+        "merged": "/home/bitetti/trabalhos/hamilton/prova10/google-play-services_lib/build/intermediates/res/merged/androidTest/debug/color/common_signin_btn_text_dark.xml",
+        "source": "/home/bitetti/trabalhos/hamilton/prova10/google-play-services_lib/build/intermediates/bundles/debug/res/color/common_signin_btn_text_dark.xml"
     }
 ]
