@@ -7,369 +7,8 @@
                     "startLine": 2,
                     "startColumn": 4,
                     "startOffset": 105,
-                    "endColumn": 108,
-                    "endOffset": 209
-                },
-                "from": {
-                    "file": "/home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-sr/values-sr.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 229,
-                        "endColumn": 108,
-                        "endOffset": 333
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 214,
-                    "endColumn": 107,
-                    "endOffset": 317
-                },
-                "from": {
-                    "file": "/home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-sr/values-sr.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 338,
-                        "endColumn": 107,
-                        "endOffset": 441
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 4,
-                    "startColumn": 4,
-                    "startOffset": 322,
-                    "endColumn": 122,
-                    "endOffset": 440
-                },
-                "from": {
-                    "file": "/home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-sr/values-sr.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 446,
-                        "endColumn": 122,
-                        "endOffset": 564
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 5,
-                    "startColumn": 4,
-                    "startOffset": 445,
-                    "endColumn": 102,
-                    "endOffset": 543
-                },
-                "from": {
-                    "file": "/home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-sr/values-sr.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 569,
-                        "endColumn": 102,
-                        "endOffset": 667
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 6,
-                    "startColumn": 4,
-                    "startOffset": 548,
-                    "endColumn": 105,
-                    "endOffset": 649
-                },
-                "from": {
-                    "file": "/home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-sr/values-sr.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 672,
-                        "endColumn": 105,
-                        "endOffset": 773
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 7,
-                    "startColumn": 4,
-                    "startOffset": 654,
-                    "endColumn": 85,
-                    "endOffset": 735
-                },
-                "from": {
-                    "file": "/home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-sr/values-sr.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 778,
-                        "endColumn": 85,
-                        "endOffset": 859
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 8,
-                    "startColumn": 4,
-                    "startOffset": 740,
-                    "endColumn": 103,
-                    "endOffset": 839
-                },
-                "from": {
-                    "file": "/home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-sr/values-sr.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 864,
-                        "endColumn": 103,
-                        "endOffset": 963
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 9,
-                    "startColumn": 4,
-                    "startOffset": 844,
-                    "endColumn": 117,
-                    "endOffset": 957
-                },
-                "from": {
-                    "file": "/home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-sr/values-sr.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 968,
-                        "endColumn": 117,
-                        "endOffset": 1081
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 10,
-                    "startColumn": 4,
-                    "startOffset": 962,
-                    "endColumn": 80,
-                    "endOffset": 1038
-                },
-                "from": {
-                    "file": "/home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-sr/values-sr.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 4,
-                        "startOffset": 1086,
-                        "endColumn": 80,
-                        "endOffset": 1162
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 11,
-                    "startColumn": 4,
-                    "startOffset": 1043,
-                    "endColumn": 79,
-                    "endOffset": 1118
-                },
-                "from": {
-                    "file": "/home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-sr/values-sr.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 1167,
-                        "endColumn": 79,
-                        "endOffset": 1242
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 12,
-                    "startColumn": 4,
-                    "startOffset": 1123,
-                    "endColumn": 87,
-                    "endOffset": 1206
-                },
-                "from": {
-                    "file": "/home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-sr/values-sr.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 1247,
-                        "endColumn": 87,
-                        "endOffset": 1330
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 13,
-                    "startColumn": 4,
-                    "startOffset": 1211,
-                    "endColumn": 104,
-                    "endOffset": 1311
-                },
-                "from": {
-                    "file": "/home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-sr/values-sr.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 4,
-                        "startOffset": 1335,
-                        "endColumn": 104,
-                        "endOffset": 1435
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 14,
-                    "startColumn": 4,
-                    "startOffset": 1316,
-                    "endColumn": 107,
-                    "endOffset": 1419
-                },
-                "from": {
-                    "file": "/home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-sr/values-sr.xml",
-                    "position": {
-                        "startLine": 16,
-                        "startColumn": 4,
-                        "startOffset": 1440,
-                        "endColumn": 107,
-                        "endOffset": 1543
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 15,
-                    "startColumn": 4,
-                    "startOffset": 1424,
-                    "endColumn": 100,
-                    "endOffset": 1520
-                },
-                "from": {
-                    "file": "/home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-sr/values-sr.xml",
-                    "position": {
-                        "startLine": 17,
-                        "startColumn": 4,
-                        "startOffset": 1548,
-                        "endColumn": 100,
-                        "endOffset": 1644
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 16,
-                    "startColumn": 4,
-                    "startOffset": 1525,
-                    "endColumn": 103,
-                    "endOffset": 1624
-                },
-                "from": {
-                    "file": "/home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-sr/values-sr.xml",
-                    "position": {
-                        "startLine": 18,
-                        "startColumn": 4,
-                        "startOffset": 1649,
-                        "endColumn": 103,
-                        "endOffset": 1748
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 17,
-                    "startColumn": 4,
-                    "startOffset": 1629,
-                    "endColumn": 107,
-                    "endOffset": 1732
-                },
-                "from": {
-                    "file": "/home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-sr/values-sr.xml",
-                    "position": {
-                        "startLine": 19,
-                        "startColumn": 4,
-                        "startOffset": 1753,
-                        "endColumn": 107,
-                        "endOffset": 1856
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 18,
-                    "startColumn": 4,
-                    "startOffset": 1737,
-                    "endColumn": 100,
-                    "endOffset": 1833
-                },
-                "from": {
-                    "file": "/home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-sr/values-sr.xml",
-                    "position": {
-                        "startLine": 20,
-                        "startColumn": 4,
-                        "startOffset": 1861,
-                        "endColumn": 100,
-                        "endOffset": 1957
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 19,
-                    "startColumn": 4,
-                    "startOffset": 1838,
-                    "endColumn": 127,
-                    "endOffset": 1961
-                },
-                "from": {
-                    "file": "/home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-sr/values-sr.xml",
-                    "position": {
-                        "startLine": 21,
-                        "startColumn": 4,
-                        "startOffset": 1962,
-                        "endColumn": 127,
-                        "endOffset": 2085
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 20,
-                    "startColumn": 4,
-                    "startOffset": 1966,
-                    "endColumn": 96,
-                    "endOffset": 2058
-                },
-                "from": {
-                    "file": "/home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-sr/values-sr.xml",
-                    "position": {
-                        "startLine": 22,
-                        "startColumn": 4,
-                        "startOffset": 2090,
-                        "endColumn": 96,
-                        "endOffset": 2182
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 21,
-                    "startColumn": 4,
-                    "startOffset": 2063,
                     "endColumn": 147,
-                    "endOffset": 2206
+                    "endOffset": 248
                 },
                 "from": {
                     "file": "/home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/build/intermediates/exploded-aar/prova10/google-play-services_lib/unspecified/res/values-sr/values-sr.xml",
@@ -384,11 +23,11 @@
             },
             {
                 "to": {
-                    "startLine": 22,
+                    "startLine": 3,
                     "startColumn": 4,
-                    "startOffset": 2211,
+                    "startOffset": 253,
                     "endColumn": 145,
-                    "endOffset": 2352
+                    "endOffset": 394
                 },
                 "from": {
                     "file": "/home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/build/intermediates/exploded-aar/prova10/google-play-services_lib/unspecified/res/values-sr/values-sr.xml",
@@ -403,11 +42,11 @@
             },
             {
                 "to": {
-                    "startLine": 23,
+                    "startLine": 4,
                     "startColumn": 4,
-                    "startOffset": 2357,
+                    "startOffset": 399,
                     "endColumn": 137,
-                    "endOffset": 2490
+                    "endOffset": 532
                 },
                 "from": {
                     "file": "/home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/build/intermediates/exploded-aar/prova10/google-play-services_lib/unspecified/res/values-sr/values-sr.xml",
@@ -422,11 +61,11 @@
             },
             {
                 "to": {
-                    "startLine": 24,
+                    "startLine": 5,
                     "startColumn": 4,
-                    "startOffset": 2495,
+                    "startOffset": 537,
                     "endColumn": 130,
-                    "endOffset": 2621
+                    "endOffset": 663
                 },
                 "from": {
                     "file": "/home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/build/intermediates/exploded-aar/prova10/google-play-services_lib/unspecified/res/values-sr/values-sr.xml",
@@ -441,11 +80,11 @@
             },
             {
                 "to": {
-                    "startLine": 25,
+                    "startLine": 6,
                     "startColumn": 4,
-                    "startOffset": 2626,
+                    "startOffset": 668,
                     "endColumn": 128,
-                    "endOffset": 2750
+                    "endOffset": 792
                 },
                 "from": {
                     "file": "/home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/build/intermediates/exploded-aar/prova10/google-play-services_lib/unspecified/res/values-sr/values-sr.xml",
@@ -460,11 +99,11 @@
             },
             {
                 "to": {
-                    "startLine": 26,
+                    "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 2755,
+                    "startOffset": 797,
                     "endColumn": 160,
-                    "endOffset": 2911
+                    "endOffset": 953
                 },
                 "from": {
                     "file": "/home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/build/intermediates/exploded-aar/prova10/google-play-services_lib/unspecified/res/values-sr/values-sr.xml",
@@ -479,11 +118,11 @@
             },
             {
                 "to": {
-                    "startLine": 27,
+                    "startLine": 8,
                     "startColumn": 4,
-                    "startOffset": 2916,
+                    "startOffset": 958,
                     "endColumn": 126,
-                    "endOffset": 3038
+                    "endOffset": 1080
                 },
                 "from": {
                     "file": "/home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/build/intermediates/exploded-aar/prova10/google-play-services_lib/unspecified/res/values-sr/values-sr.xml",
@@ -498,11 +137,11 @@
             },
             {
                 "to": {
-                    "startLine": 28,
+                    "startLine": 9,
                     "startColumn": 4,
-                    "startOffset": 3043,
+                    "startOffset": 1085,
                     "endColumn": 168,
-                    "endOffset": 3207
+                    "endOffset": 1249
                 },
                 "from": {
                     "file": "/home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/build/intermediates/exploded-aar/prova10/google-play-services_lib/unspecified/res/values-sr/values-sr.xml",
@@ -517,11 +156,11 @@
             },
             {
                 "to": {
-                    "startLine": 29,
+                    "startLine": 10,
                     "startColumn": 4,
-                    "startOffset": 3212,
+                    "startOffset": 1254,
                     "endColumn": 128,
-                    "endOffset": 3336
+                    "endOffset": 1378
                 },
                 "from": {
                     "file": "/home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/build/intermediates/exploded-aar/prova10/google-play-services_lib/unspecified/res/values-sr/values-sr.xml",
@@ -536,11 +175,11 @@
             },
             {
                 "to": {
-                    "startLine": 30,
+                    "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 3341,
+                    "startOffset": 1383,
                     "endColumn": 127,
-                    "endOffset": 3464
+                    "endOffset": 1506
                 },
                 "from": {
                     "file": "/home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/build/intermediates/exploded-aar/prova10/google-play-services_lib/unspecified/res/values-sr/values-sr.xml",
@@ -555,11 +194,11 @@
             },
             {
                 "to": {
-                    "startLine": 31,
+                    "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 3469,
+                    "startOffset": 1511,
                     "endColumn": 193,
-                    "endOffset": 3658
+                    "endOffset": 1700
                 },
                 "from": {
                     "file": "/home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/build/intermediates/exploded-aar/prova10/google-play-services_lib/unspecified/res/values-sr/values-sr.xml",
@@ -574,11 +213,11 @@
             },
             {
                 "to": {
-                    "startLine": 32,
+                    "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 3663,
+                    "startOffset": 1705,
                     "endColumn": 193,
-                    "endOffset": 3852
+                    "endOffset": 1894
                 },
                 "from": {
                     "file": "/home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/build/intermediates/exploded-aar/prova10/google-play-services_lib/unspecified/res/values-sr/values-sr.xml",
@@ -593,11 +232,11 @@
             },
             {
                 "to": {
-                    "startLine": 33,
+                    "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 3857,
+                    "startOffset": 1899,
                     "endColumn": 127,
-                    "endOffset": 3980
+                    "endOffset": 2022
                 },
                 "from": {
                     "file": "/home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/build/intermediates/exploded-aar/prova10/google-play-services_lib/unspecified/res/values-sr/values-sr.xml",
@@ -612,11 +251,11 @@
             },
             {
                 "to": {
-                    "startLine": 34,
+                    "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 3985,
+                    "startOffset": 2027,
                     "endColumn": 172,
-                    "endOffset": 4153
+                    "endOffset": 2195
                 },
                 "from": {
                     "file": "/home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/build/intermediates/exploded-aar/prova10/google-play-services_lib/unspecified/res/values-sr/values-sr.xml",
@@ -631,11 +270,11 @@
             },
             {
                 "to": {
-                    "startLine": 35,
+                    "startLine": 16,
                     "startColumn": 4,
-                    "startOffset": 4158,
+                    "startOffset": 2200,
                     "endColumn": 122,
-                    "endOffset": 4276
+                    "endOffset": 2318
                 },
                 "from": {
                     "file": "/home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/build/intermediates/exploded-aar/prova10/google-play-services_lib/unspecified/res/values-sr/values-sr.xml",
@@ -650,11 +289,11 @@
             },
             {
                 "to": {
-                    "startLine": 36,
+                    "startLine": 17,
                     "startColumn": 4,
-                    "startOffset": 4281,
+                    "startOffset": 2323,
                     "endColumn": 179,
-                    "endOffset": 4456
+                    "endOffset": 2498
                 },
                 "from": {
                     "file": "/home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/build/intermediates/exploded-aar/prova10/google-play-services_lib/unspecified/res/values-sr/values-sr.xml",
@@ -669,11 +308,11 @@
             },
             {
                 "to": {
-                    "startLine": 37,
+                    "startLine": 18,
                     "startColumn": 4,
-                    "startOffset": 4461,
+                    "startOffset": 2503,
                     "endColumn": 121,
-                    "endOffset": 4578
+                    "endOffset": 2620
                 },
                 "from": {
                     "file": "/home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/build/intermediates/exploded-aar/prova10/google-play-services_lib/unspecified/res/values-sr/values-sr.xml",
@@ -688,11 +327,11 @@
             },
             {
                 "to": {
-                    "startLine": 38,
+                    "startLine": 19,
                     "startColumn": 4,
-                    "startOffset": 4583,
+                    "startOffset": 2625,
                     "endColumn": 141,
-                    "endOffset": 4720
+                    "endOffset": 2762
                 },
                 "from": {
                     "file": "/home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/build/intermediates/exploded-aar/prova10/google-play-services_lib/unspecified/res/values-sr/values-sr.xml",
@@ -707,11 +346,11 @@
             },
             {
                 "to": {
-                    "startLine": 39,
+                    "startLine": 20,
                     "startColumn": 4,
-                    "startOffset": 4725,
+                    "startOffset": 2767,
                     "endColumn": 176,
-                    "endOffset": 4897
+                    "endOffset": 2939
                 },
                 "from": {
                     "file": "/home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/build/intermediates/exploded-aar/prova10/google-play-services_lib/unspecified/res/values-sr/values-sr.xml",
@@ -726,11 +365,11 @@
             },
             {
                 "to": {
-                    "startLine": 40,
+                    "startLine": 21,
                     "startColumn": 4,
-                    "startOffset": 4902,
+                    "startOffset": 2944,
                     "endColumn": 252,
-                    "endOffset": 5150
+                    "endOffset": 3192
                 },
                 "from": {
                     "file": "/home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/build/intermediates/exploded-aar/prova10/google-play-services_lib/unspecified/res/values-sr/values-sr.xml",
@@ -745,11 +384,11 @@
             },
             {
                 "to": {
-                    "startLine": 41,
+                    "startLine": 22,
                     "startColumn": 4,
-                    "startOffset": 5155,
+                    "startOffset": 3197,
                     "endColumn": 122,
-                    "endOffset": 5273
+                    "endOffset": 3315
                 },
                 "from": {
                     "file": "/home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/build/intermediates/exploded-aar/prova10/google-play-services_lib/unspecified/res/values-sr/values-sr.xml",
@@ -764,11 +403,11 @@
             },
             {
                 "to": {
-                    "startLine": 42,
+                    "startLine": 23,
                     "startColumn": 4,
-                    "startOffset": 5278,
+                    "startOffset": 3320,
                     "endColumn": 108,
-                    "endOffset": 5382
+                    "endOffset": 3424
                 },
                 "from": {
                     "file": "/home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/build/intermediates/exploded-aar/prova10/google-play-services_lib/unspecified/res/values-sr/values-sr.xml",
@@ -783,11 +422,11 @@
             },
             {
                 "to": {
-                    "startLine": 43,
+                    "startLine": 24,
                     "startColumn": 4,
-                    "startOffset": 5387,
+                    "startOffset": 3429,
                     "endColumn": 170,
-                    "endOffset": 5553
+                    "endOffset": 3595
                 },
                 "from": {
                     "file": "/home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/build/intermediates/exploded-aar/prova10/google-play-services_lib/unspecified/res/values-sr/values-sr.xml",
@@ -802,11 +441,11 @@
             },
             {
                 "to": {
-                    "startLine": 44,
+                    "startLine": 25,
                     "startColumn": 4,
-                    "startOffset": 5558,
+                    "startOffset": 3600,
                     "endColumn": 127,
-                    "endOffset": 5681
+                    "endOffset": 3723
                 },
                 "from": {
                     "file": "/home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/build/intermediates/exploded-aar/prova10/google-play-services_lib/unspecified/res/values-sr/values-sr.xml",
@@ -821,11 +460,11 @@
             },
             {
                 "to": {
-                    "startLine": 45,
+                    "startLine": 26,
                     "startColumn": 4,
-                    "startOffset": 5686,
+                    "startOffset": 3728,
                     "endColumn": 94,
-                    "endOffset": 5776
+                    "endOffset": 3818
                 },
                 "from": {
                     "file": "/home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/build/intermediates/exploded-aar/prova10/google-play-services_lib/unspecified/res/values-sr/values-sr.xml",
@@ -840,11 +479,11 @@
             },
             {
                 "to": {
-                    "startLine": 46,
+                    "startLine": 27,
                     "startColumn": 4,
-                    "startOffset": 5781,
+                    "startOffset": 3823,
                     "endColumn": 114,
-                    "endOffset": 5891
+                    "endOffset": 3933
                 },
                 "from": {
                     "file": "/home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/build/intermediates/exploded-aar/prova10/google-play-services_lib/unspecified/res/values-sr/values-sr.xml",
@@ -854,25 +493,6 @@
                         "startOffset": 3823,
                         "endColumn": 114,
                         "endOffset": 3933
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 47,
-                    "startColumn": 4,
-                    "startOffset": 5896,
-                    "endColumn": 100,
-                    "endOffset": 5992
-                },
-                "from": {
-                    "file": "/home/bitetti/trabalhos/hamilton/prova10/AndroidWebView/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-sr/values-sr.xml",
-                    "position": {
-                        "startLine": 23,
-                        "startColumn": 4,
-                        "startOffset": 2187,
-                        "endColumn": 100,
-                        "endOffset": 2283
                     }
                 }
             }

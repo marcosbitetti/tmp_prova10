@@ -12,12 +12,14 @@ import android.view.MotionEvent;
 import android.view.View;
 import android.view.View.OnTouchListener;
 import android.view.ViewGroup;
+import android.webkit.CookieManager;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
 import android.widget.ProgressBar;
 import android.widget.Toast;
 
 import com.csform.android.androidwebview.R;
+import com.csform.android.androidwebview.model.SessionCookie;
 
 public class WebViewFragment extends Fragment implements OnTouchListener,
 		Handler.Callback {
@@ -72,6 +74,13 @@ public class WebViewFragment extends Fragment implements OnTouchListener,
 		Bundle args = new Bundle(1);
 		args.putString(ARG_URL, URL);
 		webViewFragment.setArguments(args);
+
+		// Marcos esteve aki
+		// cookie
+		CookieManager cookieManager = CookieManager.getInstance();
+		cookieManager.setCookie(SessionCookie.url,SessionCookie.cookie);
+		//cookieManager.flush();
+
 		return webViewFragment;
 	}
 	

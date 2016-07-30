@@ -211,8 +211,10 @@ public class MainActivity extends BaseActivity {
 		fragment = AboutUsFragment.newInstance();
 		long pos = mLeftMenuItems.get((int)tag).getTag();
 		if(pos == LeftMenuItem.LEFT_MENU_HOME) {
-			fragment = WebViewFragment.newInstance(getString(R.string.uri));
+			//fragment = WebViewFragment.newInstance(getString(R.string.uri));
+			fragment = WebViewFragment.newInstance(getString(R.string.url_logado));
 			mTitle = getString(R.string.home);
+
 		}
 		//TODO If you want to add only pages from your site, delete form HERE
 		else if (pos == LeftMenuItem.LEFT_MENU_ABOUT) {

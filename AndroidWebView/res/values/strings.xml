@@ -12,6 +12,9 @@
     <!-- Main Data -->
     <string name="app_name">AndroidWebView</string>
     <string name="uri">http://prova10.com.br/login-mobile.html</string>
+    <string name="uri_login">http://prova10.com.br/consulta-login-verifica-usuario.php</string>
+    <string name="url">http://prova10.com.br</string>
+    <string name="url_logado">http://prova10.com.br/page-inicial.php</string>
     <!--<string name="uri">http://csform.com/</string>-->
     
     <!-- About US Data -->
@@ -19,6 +22,10 @@
     <string name="subtitle">ABOUT US</string>
     <string name="moto">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc maximus suscipit justo et dictum. Aenean imperdiet viverra lorem, et lobortis sem rutrum semper.</string>
     <string name="about_us_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc maximus suscipit justo et dictum. Aenean imperdiet viverra lorem, et lobortis sem rutrum semper. Praesent iaculis pharetra mattis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. </string>
+
+    <!-- login -->
+    <string name="lostPassword">Esqueci minha senha</string>
+
     
     <!-- Contact -->
     <string name="address">ADDRESS</string>

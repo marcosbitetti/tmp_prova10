@@ -7,6 +7,7 @@ import android.annotation.TargetApi;
 import android.app.LoaderManager.LoaderCallbacks;
 import android.content.ContentResolver;
 import android.content.CursorLoader;
+import android.content.Intent;
 import android.content.Loader;
 import android.database.Cursor;
 import android.net.Uri;
@@ -26,10 +27,22 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 
+import com.csform.android.androidwebview.model.SessionCookie;
 import com.google.android.gms.common.ConnectionResult;
 import com.google.android.gms.common.GooglePlayServicesUtil;
 import com.google.android.gms.common.SignInButton;
+import com.google.gson.JsonParser;
 
+import org.json.JSONObject;
+
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.InputStreamReader;
+import java.io.OutputStream;
+import java.io.OutputStreamWriter;
+import java.net.HttpURLConnection;
+import java.net.URL;
+import java.net.URLEncoder;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -148,6 +161,14 @@ public class LoginActivity extends PlusBaseActivity implements LoaderCallbacks<C
         boolean cancel = false;
         View focusView = null;
 
+        // teste
+
+        showProgress(true);
+        mAuthTask = new UserLoginTask("hsfradinho@gmail.com", "123456");
+        mAuthTask.execute((Void) null);
+
+        if (true) return;
+
         // Check for a valid password, if the user entered one.
         if (!TextUtils.isEmpty(password) && !isPasswordValid(password)) {
             mPasswordView.setError(getString(R.string.error_invalid_password));
@@ -254,8 +275,8 @@ public class LoginActivity extends PlusBaseActivity implements LoaderCallbacks<C
         //TODO: Update this logic to also handle the user logged in by email.
         boolean connected = getPlusClient().isConnected();
 
-        mSignOutButtons.setVisibility(connected ? View.VISIBLE : View.GONE);
-        mPlusSignInButton.setVisibility(connected ? View.GONE : View.VISIBLE);
+        //mSignOutButtons.setVisibility(connected ? View.VISIBLE : View.GONE);
+        //mPlusSignInButton.setVisibility(connected ? View.GONE : View.VISIBLE);
         mEmailLoginFormView.setVisibility(connected ? View.GONE : View.VISIBLE);
     }
 
@@ -364,6 +385,14 @@ public class LoginActivity extends PlusBaseActivity implements LoaderCallbacks<C
         mEmailView.setAdapter(adapter);
     }
 
+
+    private void loginAceito()
+    {
+        Intent main = new Intent(LoginActivity.this, MainActivity.class);
+        LoginActivity.this.startActivity(main);
+        LoginActivity.this.finish();
+    }
+
     /**
      * Represents an asynchronous login/registration task used to authenticate
      * the user.
@@ -382,7 +411,67 @@ public class LoginActivity extends PlusBaseActivity implements LoaderCallbacks<C
         protected Boolean doInBackground(Void... params) {
             // TODO: attempt authentication against a network service.
 
-            try {
+            android.util.Log.d( "LOG", getString(R.string.uri_login) );
+
+            try
+            {
+                URL url = new URL(getString(R.string.uri_login));
+                HttpURLConnection connection = (HttpURLConnection) url.openConnection();
+                connection.setRequestMethod("POST");
+                //connection.setRequestProperty("Content-Type", "application/json");
+                connection.setReadTimeout(15000);
+                connection.setConnectTimeout(15000);
+                connection.setDoInput(true);
+                connection.setDoOutput(true);
+
+                OutputStream out = connection.getOutputStream();
+                BufferedWriter bw = new BufferedWriter( new OutputStreamWriter(out,"UTF-8"));
+                bw.write(
+                        URLEncoder.encode("email","UTF-8") + "=" +
+                        URLEncoder.encode(mEmail,"UTF-8") + "&" +
+                        URLEncoder.encode("senha","UTF-8") + "=" +
+                        URLEncoder.encode(mPassword,"UTF-8")
+                );
+                bw.flush();
+                bw.close();
+                out.close();
+
+                android.util.Log.d("LOG", URLEncoder.encode("email", "UTF-8") + "=" +
+                        URLEncoder.encode(mEmail, "UTF-8") + "&" +
+                        URLEncoder.encode("senha", "UTF-8") + "=" +
+                        URLEncoder.encode(mPassword, "UTF-8"));
+
+                if (connection.getResponseCode() == HttpURLConnection.HTTP_OK)
+                {
+
+                    android.util.Log.d("LOG", connection.getHeaderField("Set-Cookie"));
+                    SessionCookie.cookie = connection.getHeaderField("Set-Cookie");
+                    SessionCookie.url = getString(R.string.url);
+
+                    String line;
+                    BufferedReader br = new BufferedReader(new InputStreamReader(connection.getInputStream()));
+                    while((line=br.readLine())!=null)
+                    {
+                        if(line.length()>0)
+                        {
+                            JSONObject resp = new JSONObject(line);
+                            //android.util.Log.d("LOG", line);
+                            //android.util.Log.d("LOG", String.valueOf(resp.getInt("login")));
+                            if (resp.getInt("login")>0)
+                                return true; // logado
+                        }
+                    }
+                } else {
+                    return false;
+                }
+            } catch (Exception e)
+            {
+                android.util.Log.d( "LOG", e.getMessage() );
+                return false;
+            }
+
+
+            /*try {
                 // Simulate network access.
                 Thread.sleep(2000);
             } catch (InterruptedException e) {
@@ -395,10 +484,10 @@ public class LoginActivity extends PlusBaseActivity implements LoaderCallbacks<C
                     // Account exists, return true if the password matches.
                     return pieces[1].equals(mPassword);
                 }
-            }
+            }*/
 
             // TODO: register the new account here.
-            return true;
+            return false;
         }
 
         @Override
@@ -407,7 +496,7 @@ public class LoginActivity extends PlusBaseActivity implements LoaderCallbacks<C
             showProgress(false);
 
             if (success) {
-                finish();
+                loginAceito();
             } else {
                 mPasswordView.setError(getString(R.string.error_incorrect_password));
                 mPasswordView.requestFocus();
